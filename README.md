@@ -8,6 +8,7 @@ In this lab we are supposed to design a simple 4-bit microprocessor which is cap
 ● taking the two’s complement of a given value
 ● finally, the jump instruction.
 
+
 To develop this, we had to take sub-components wired and connected using buses and build
 the main component. We used 3, 4 and 12-bit busses. Identification of the role of inputs and
 outputs also an important task that we were supposed to do. The subcomponents that we used
