@@ -3,7 +3,7 @@ Assigned Lab Task
 In this lab we are supposed to design a simple 4-bit microprocessor which is capable to execute
 4 instructions. The four instructions that we should run in this microprocessor are
 
-● moving a value to a register
+● moving a value to a register 
 ● adding, or subtracting two values
 ● taking the two’s complement of a given value
 ● finally, the jump instruction.
